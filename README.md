@@ -1,9 +1,9 @@
 # MoneyMind
 
- Tecnologias utilizadas
+Tecnologias utilizadas:
 
-Python
-MySQL
-MySQL Connector
-Brmodelo
-GitHub
+° Python
+° MySQL
+° MySQL Connector
+° Brmodelo
+° GitHub
